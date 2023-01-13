@@ -1,1 +1,3 @@
-alert('OK');
+function oshita() {
+    alert('こんにちは');
+}
